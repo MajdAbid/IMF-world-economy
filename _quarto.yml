@@ -6,11 +6,10 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "IMF World Economy"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
-  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+    - Majd Abid(ma4685)
+  repo-url: https://github.com/MajdAbid/IMF-world-economy
   date: today
   page-footer:
     right: |

@@ -1,13 +1,36 @@
 # Interactive graph
 
 <style>
-  * {
-    font-family: sans-serif;
-  }
+ *{
+    font-family : sans-serif
+ }
+ .button{
+    background-color: #fcd5d1;
+    color: black;
+    border-radius: 3rem;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    border:0;
+ }
+ .toggle{
+    background-color: #ff7363;
+    color:white;
+ }
+ #year{
+    color: #ff7363;;
+ }
+ #plot{
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+ }
 </style> 
+<h2 style="margin-top:5rem">Interest payments(% of GDP) to Gross Debt(% of GDP)</h2>
+<!-- YEAR -->
 
-<div id="plot">
-</div>
-
+<div id="plot"><h2 id="year"></p></div>
+<h3>Available Countries</h3>
+<div id="buttons"></div>
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script src="scripts/myscript.js"></script>

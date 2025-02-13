@@ -59,4 +59,4 @@ Tip: From the file pane in RStudio, open `README.md`, which contains these instr
 Please consult the official guide to **quarto** book websites: [https://quarto.org/docs/books/](https://quarto.org/docs/books/)
 
 
-
+This project dives into the world of global macroeconomic disparities, zooming in on regional inequalities and the contrasting dynamics between G7 and BRICS economies. Leveraging data from the IMF World Economic Outlook (WEO) database, it unpacks key indicators like nominal GDP, PPP-adjusted GDP, debt, consumer price index, and unemployment. The analysis reveals how nominal GDP often misses the mark in reflecting the true economic realities of Global South nations, while PPP offers a fairer lens. By shedding light on these disparities, the project focuses on traditional economic indicators and pushes for a more balanced and inclusive approach to measuring economic strength and we defining and assessing global prosperity.
